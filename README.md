@@ -4,7 +4,6 @@ Within main.py, you will find a piece of code that looks like this:
 import openai
 
 # put in your key here
-
 openai.api_key = ""
 ```
 You will need to put in your OpenAI key here. You can access this [here](https://openai.com/blog/openai-api) after
